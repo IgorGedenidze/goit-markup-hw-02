@@ -40,8 +40,8 @@
 }
 
 .menu-item-link:hover,
-.address-item-link:active,
-.address-item-link:focus{
+..menu-item-link:active,
+..menu-item-link:focus{
     color: #404bbf;
 }
 
@@ -71,16 +71,16 @@
 }
 
 .hero{
-    color: #FFF;
     background-color: #2E2F42;
 }
 
 .hero-title{
+    color: #FFF;
+    text-align: center;
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 1.12px;
-    text-align: center;
 }
 
 .button{
