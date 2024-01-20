@@ -40,8 +40,8 @@
 }
 
 .menu-item-link:hover,
-..menu-item-link:active,
-..menu-item-link:focus{
+.menu-item-link:active,
+.menu-item-link:focus{
     color: #404bbf;
 }
 
